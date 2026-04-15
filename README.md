@@ -43,7 +43,6 @@
 
 - 🐛 I've fixed a bug at 8 AM and felt like I won a championship
 - 📖 I read AWS docs for fun (yes, seriously)
-- 🎯 My favorite interview question: *"Design a URL shortener"*
 - 🌐 I believe every millisecond of latency is a personal insult
 - 🔄 I refactor code the way some people redecorate their homes
 
@@ -196,9 +195,8 @@
 </div>
 
 <div align="center">
-
+  
+<img src="https://komarev.com/ghpvc/?username=Nilay1999&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+<br/>
 ⭐ **If you find my work interesting, give it a star!** ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
 </div>
