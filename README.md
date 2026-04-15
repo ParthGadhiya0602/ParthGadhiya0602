@@ -20,12 +20,12 @@
 
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-🎯 **Backend-focused Software Engineer** with **4+ years** of experience architecting **scalable distributed systems** using Java and Node.js.
+🎯 **Backend-focused Software Engineer** with **4+ years** of experience architecting **scalable distributed systems** using Node.js & Java.
 
 - 🔭 Currently building **serverless event-driven architectures** & **microservices**
 - 🌱 Deep diving into **Go**, **Kubernetes**, and **System Design**
 - ⚡ I love making systems **blazingly fast** 🚀
-- 🧩 Active problem solver on [LeetCode](https://leetcode.com/u/Nilay0911/)
+- 🧩 Active problem solver
 - 💼 Working at **Distinction Dev**
 - 📫 Reach me: **nilayparmar19@gmail.com**
 
@@ -43,7 +43,7 @@
 
 > 🌀 *"Premature optimization is the root of all evil — but late optimization is pure joy."*
 
-- 🐛 I've fixed a bug at 2 AM and felt like I won a championship
+- 🐛 I've fixed a bug at 8 AM and felt like I won a championship
 - 📖 I read AWS docs for fun (yes, seriously)
 - 🎯 My favorite interview question: *"Design a URL shortener"*
 - 🌐 I believe every millisecond of latency is a personal insult
@@ -60,7 +60,6 @@
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 </div>
@@ -69,10 +68,10 @@
 
 <div align="center">
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
 </div>
