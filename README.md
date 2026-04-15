@@ -5,11 +5,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Distributed+Systems+;" alt="Typing SVG" />
 
 <p align="center">
-  <!-- Badges -->
-  [![Experience](https://img.shields.io/badge/Experience-4%2B%20Years-brightgreen?style=for-the-badge&logo=opsgenie&logoColor=white)](https://github.com/ParthGadhiya0602)
-  [![Focus](https://img.shields.io/badge/Focus-Backend%20%26%20Cloud-blue?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/ParthGadhiya0602)
-  [![Location](https://img.shields.io/badge/Location-India%20🇮🇳-orange?style=for-the-badge)](https://github.com/ParthGadhiya0602)
-  [![Profile Views](https://komarev.com/ghpvc/?username=ParthGadhiya0602&color=blueviolet&style=for-the-badge&label=Profile+Views)](https://github.com/ParthGadhiya0602)
+  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-brightgreen?style=for-the-badge" alt="Experience"/>
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Cloud-blue?style=for-the-badge" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Location-India-orange?style=for-the-badge" alt="Location"/>
 </p>
 
 </div>
