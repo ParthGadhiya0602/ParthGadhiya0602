@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Parth%20Gadhiya&fontSize=60&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Distributed%20Systems%20%7C%20Cloud%20Native&descAlignY=55&descSize=18&animation=fadeIn&fontColor=fff" width="100%"/>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hey+There!+I'm+Parth+%F0%9F%91%8B;BBackend+Dev+%7C+Cloud+Lover+%7C+System+Design+Nerd)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hey+There!+I'm+Parth+%F0%9F%91%8B;BBackend+Dev+%7C+Cloud+Lover+%7C+System+Design+Nerdd)](https://git.io/typing-svg)
 
 <!-- Badges -->
 [![Experience](https://img.shields.io/badge/Experience-4%2B%20Years-brightgreen?style=for-the-badge&logo=opsgenie&logoColor=white)](https://github.com/ParthGadhiya0602)
@@ -157,15 +157,31 @@
 |:---:|:---:|:---:|
 | Building high-performance microservices & CLI tools with Go's powerful concurrency | Mastering orchestration, RBAC, networking & cluster management | Exploring ArgoCD, Flux, Helm, and modern deployment strategies |
 
+## 🌱 Currently Learning
+
+<div align="center">
+
+[![Learning](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Always+Learning+%F0%9F%93%9A;Expanding+My+Tech+Horizons+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
+
 ### 🎯 2026 Learning Roadmap
 
-```
-🐹 Golang          ████████░░  80%   Building microservices & CLI tools
-☸️  Kubernetes      ███████░░░  70%   Advanced networking & operators
-🔄 GitOps          ██████░░░░  60%   ArgoCD & deployment strategies
-📊 Observability   █████░░░░░  50%   Prometheus, Grafana, Distributed Tracing
-🛡️  Istio           ████░░░░░░  40%   Service mesh & traffic management
-```
+> 🔥 **Top Priority**
+
+| | Topic | Focus |
+|:---:|:---|:---|
+| ☕ | **Java (Advanced)** | JVM internals, Concurrency, Performance tuning |
+| 🏗️ | **Low Level Design** | SOLID principles, Design patterns, OOP mastery |
+
+> 📌 **In Progress**
+
+| | Topic | Focus |
+|:---:|:---|:---|
+| ☸️ | **Kubernetes** | Advanced networking & operators |
+| 🔄 | **GitOps** | ArgoCD & deployment strategies |
+| 📊 | **Observability** | Prometheus, Grafana, Distributed Tracing |
+| 🛡️ | **Istio** | Service mesh & traffic management |
 
 ---
 
