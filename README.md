@@ -58,7 +58,22 @@
 <div align="center">
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=java,ts,js,py,go&theme=dark&perline=5" height="64" />
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="65" height="65" />
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="65" height="65" />
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="65" height="65" />
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="65" height="65" />
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -78,6 +93,7 @@
 </div>
 
 ---
+
 ## 🌱 Currently Learning
 
 <div align="center">
