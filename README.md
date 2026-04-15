@@ -27,7 +27,7 @@
 - ⚡ I love making systems **blazingly fast** 🚀
 - 🧩 Active problem solver
 - 💼 Working at **Distinction Dev**
-- 📫 Reach me: **nilayparmar19@gmail.com**
+- 📫 Reach me: **parthgadhiya2016@gmail.com**
 
 ---
 
