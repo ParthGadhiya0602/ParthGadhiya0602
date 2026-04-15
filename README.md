@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 Who I Am
 
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
@@ -50,7 +50,7 @@
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Toolbox
 
 <div align="center">
 
@@ -142,7 +142,7 @@
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Next Level
 
 <div align="center">
 
@@ -150,7 +150,7 @@
 
 </div>
 
-### 🎯 2026 Learning Roadmap
+### 🎯 2026 Adventure
 
 > 🔥 **Top Priority**
 
