@@ -198,6 +198,7 @@
   
 <img src="https://komarev.com/ghpvc/?username=Nilay1999&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 <br/>
+
 **⭐If you find my work interesting, give it a star!⭐**
-**If you find my work interesting, give it a star!**
+
 </div>
