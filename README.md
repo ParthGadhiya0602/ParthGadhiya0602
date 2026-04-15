@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Parth%20Gadhiya&fontSize=60&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Distributed%20Systems%20%7C%20Cloud%20Native&descAlignY=55&descSize=18&animation=fadeIn&fontColor=fff" width="100%"/>
@@ -12,7 +12,7 @@
 [![Location](https://img.shields.io/badge/Location-India%20🇮🇳-orange?style=for-the-badge)](https://github.com/ParthGadhiya0602)
 [![Profile Views](https://komarev.com/ghpvc/?username=ParthGadhiya0602&color=blueviolet&style=for-the-badge&label=Profile+Views)](https://github.com/ParthGadhiya0602)
 
-</div>
+</div> -->
 
 <div align="center">
   
@@ -21,9 +21,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Distributed+Systems+;" alt="Typing SVG" />
 
 <p align="center">
-  <!-- <img src="https://img.shields.io/badge/Experience-4%2B%20Years-brightgreen?style=for-the-badge" alt="Experience"/>
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Cloud-blue?style=for-the-badge" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Location-India-orange?style=for-the-badge" alt="Location"/> -->
+  <!-- Badges -->
   [![Experience](https://img.shields.io/badge/Experience-4%2B%20Years-brightgreen?style=for-the-badge&logo=opsgenie&logoColor=white)](https://github.com/ParthGadhiya0602)
   [![Focus](https://img.shields.io/badge/Focus-Backend%20%26%20Cloud-blue?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/ParthGadhiya0602)
   [![Location](https://img.shields.io/badge/Location-India%20🇮🇳-orange?style=for-the-badge)](https://github.com/ParthGadhiya0602)
