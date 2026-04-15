@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Parth%20Gadhiya&fontSize=60&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Distributed%20Systems%20%7C%20Cloud%20Native&descAlignY=55&descSize=18&animation=fadeIn&fontColor=fff" width="100%"/>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hey+There!+I'm+Nilay+%F0%9F%91%8B;Backend+Dev+%7C+Cloud+Lover+%7C+System+Design+Nerd)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hey+There!+I'm+Parth+%F0%9F%91%8B;Backend+Dev+%7C+Cloud+Lover+%7C+System+Design+Nerd)](https://git.io/typing-svg)
 
 <!-- Badges -->
 [![Experience](https://img.shields.io/badge/Experience-4%2B%20Years-brightgreen?style=for-the-badge&logo=opsgenie&logoColor=white)](https://github.com/Nilay1999)
