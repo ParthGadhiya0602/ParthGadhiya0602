@@ -7,10 +7,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hey+There!+I'm+Parth+%F0%9F%91%8B;Backend+Dev+%7C+Cloud+Lover+%7C+System+Design+Nerd)](https://git.io/typing-svg)
 
 <!-- Badges -->
-[![Experience](https://img.shields.io/badge/Experience-4%2B%20Years-brightgreen?style=for-the-badge&logo=opsgenie&logoColor=white)](https://github.com/Nilay1999)
-[![Focus](https://img.shields.io/badge/Focus-Backend%20%26%20Cloud-blue?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/Nilay1999)
-[![Location](https://img.shields.io/badge/Location-India%20🇮🇳-orange?style=for-the-badge)](https://github.com/Nilay1999)
-[![Profile Views](https://komarev.com/ghpvc/?username=Nilay1999&color=blueviolet&style=for-the-badge&label=Profile+Views)](https://github.com/Nilay1999)
+[![Experience](https://img.shields.io/badge/Experience-4%2B%20Years-brightgreen?style=for-the-badge&logo=opsgenie&logoColor=white)](https://github.com/ParthGadhiya0602)
+[![Focus](https://img.shields.io/badge/Focus-Backend%20%26%20Cloud-blue?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/ParthGadhiya0602)
+[![Location](https://img.shields.io/badge/Location-India%20🇮🇳-orange?style=for-the-badge)](https://github.com/ParthGadhiya0602)
+[![Profile Views](https://komarev.com/ghpvc/?username=ParthGadhiya0602&color=blueviolet&style=for-the-badge&label=Profile+Views)](https://github.com/ParthGadhiya0602)
 
 </div>
 
@@ -41,7 +41,7 @@
 
 </div>
 
-> 🌀 *"Premature optimization is the root of all evil — but late optimization is pure joy."*
+> 🌀 *"Premature optimization is the root of all evil - but late optimization is pure joy."*
 
 - 🐛 I've fixed a bug at 8 AM and felt like I won a championship
 - 📖 I read AWS docs for fun (yes, seriously)
@@ -131,10 +131,10 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nilay1999&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilay1999&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ParthGadhiya0602&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthGadhiya0602&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nilay1999&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ParthGadhiya0602&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 </div>
 
@@ -144,11 +144,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilay-parmar-b8b978178/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Nilay0911/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nilay1999)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://nilay0911.netlify.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nilayparmar19@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-gadhiya-ba1453223/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ParthGadhiya0602)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthgadhiya2016@gmail.com)
 
 </div>
 
