@@ -58,7 +58,7 @@
 <div align="center">
 
 ### 💻 Languages
-<table>
+<table style="border: none">
 <tr>
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="65" height="65" />
