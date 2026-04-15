@@ -153,18 +153,6 @@
 
 </div>
 
-| 🐹 Go (Golang) | ☸️ Kubernetes | 🔄 GitOps |
-|:---:|:---:|:---:|
-| Building high-performance microservices & CLI tools with Go's powerful concurrency | Mastering orchestration, RBAC, networking & cluster management | Exploring ArgoCD, Flux, Helm, and modern deployment strategies |
-
-## 🌱 Currently Learning
-
-<div align="center">
-
-[![Learning](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Always+Learning+%F0%9F%93%9A;Expanding+My+Tech+Horizons+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-</div>
-
 ### 🎯 2026 Learning Roadmap
 
 > 🔥 **Top Priority**
@@ -178,8 +166,9 @@
 
 | | Topic | Focus |
 |:---:|:---|:---|
-| ☸️ | **Kubernetes** | Advanced networking & operators |
-| 🔄 | **GitOps** | ArgoCD & deployment strategies |
+| 🐹 | **Golang** | High-performance microservices & CLI tools with Go's concurrency |
+| ☸️ | **Kubernetes** | Orchestration, RBAC, networking & cluster management |
+| 🔄 | **GitOps** | ArgoCD, Flux, Helm & modern deployment strategies |
 | 📊 | **Observability** | Prometheus, Grafana, Distributed Tracing |
 | 🛡️ | **Istio** | Service mesh & traffic management |
 
