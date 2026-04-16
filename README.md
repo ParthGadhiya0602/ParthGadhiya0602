@@ -162,7 +162,7 @@
 
 | | Topic | Focus |
 |:---:|:---|:---|
-| 🐹 | **Java** | High-performance microservices |
+| ☕ | **Java** | High-performance microservices |
 | ☸️ | **Kubernetes** | Orchestration, RBAC, networking & cluster management |
 | 🔄 | **GitOps** | ArgoCD, Flux, Helm & modern deployment strategies |
 | 📊 | **Observability** | Prometheus, Grafana, Distributed Tracing |
