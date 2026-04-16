@@ -149,7 +149,6 @@
 [![Learning](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Always+Learning+%F0%9F%93%9A;Expanding+My+Tech+Horizons+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
-
 ### 🎯 2026 Adventure
 
 > 🔥 **Top Priority**
